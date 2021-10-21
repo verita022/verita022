@@ -10,6 +10,11 @@ Im Veronica, full stack developer, I love the IT world and Im allways learnign s
 
 ⚡Php  ⚡Mysql  ⚡SEO  ⚡Git
 
+### Languages:
+
+✨ English
+
+✨ Spanish (Native Language)
 
 ### Contact:
 
