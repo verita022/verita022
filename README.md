@@ -1,5 +1,31 @@
 ### Hi there 👋
 
+Im Veronica, full stack developer, allways learnign something new. 
+
+# Skills at the moment:
+
+⚡Javascript
+⚡NodeJs
+⚡Express
+⚡Sequelize
+⚡React
+⚡Redux
+⚡Postgres
+⚡CSS
+⚡Html
+⚡Php
+⚡Mysql
+⚡SEO
+⚡Git
+
+# Contact:
+
+✨ email: verita022@gmail.com
+
+✨ linkedin: https://www.linkedin.com/in/veronica-camisassa-693102116/
+
+
+
 <!--
 **verita022/verita022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
