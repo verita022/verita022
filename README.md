@@ -1,22 +1,29 @@
-## Hi there 👋
+## Hi there!! I am ... 
 
-Im Veronica, full stack developer, I love the IT world and Im allways learnign something new. 
 
-### Skills at the moment:
 
-⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize
+![img-git03](https://user-images.githubusercontent.com/4484038/138340157-aba68c39-dcd5-4bb9-bd7d-746efdc9fd95.png)
 
-⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html
 
-⚡Php  ⚡Mysql  ⚡SEO  ⚡Git
+I'm a full stack developer, I love the IT world and Im allways learnign something new. 
 
-### Languages:
+
+![img-git-skills](https://user-images.githubusercontent.com/4484038/138339726-13709d1b-63f4-4431-9080-0286f5ef5c2d.png)
+
+
+⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize ⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html ⚡Php  ⚡Mysql  ⚡SEO  ⚡Git
+
+
+![img-git-languages](https://user-images.githubusercontent.com/4484038/138339517-30bc681f-9ef7-4419-80c6-442a60cf9e7d.png)
+
 
 ✨ English
 
 ✨ Spanish (Native Language)
 
-### Contact:
+
+![img-git-contact](https://user-images.githubusercontent.com/4484038/138339549-c51d7a87-1328-4618-bb56-31c9caf3bfb7.png)
+
 
 ✨ email: verita022@gmail.com
 
@@ -28,7 +35,7 @@ Im Veronica, full stack developer, I love the IT world and Im allways learnign s
 **verita022/verita022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
