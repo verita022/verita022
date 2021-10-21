@@ -5,13 +5,14 @@
 ![img-git03](https://user-images.githubusercontent.com/4484038/138340157-aba68c39-dcd5-4bb9-bd7d-746efdc9fd95.png)
 
 
-I'm a full stack developer, I love the IT world and Im allways learnign something new. 
+<p align='center'>I'm a full stack developer, I love the IT world and Im allways learnign something new.
+I consider myself a very proactive person, extremely curious, which end up being something very useful for me as a developer. I adapt very easily to any work enviroment, I function very well in group as well as alone.  </p>
 
 
 ![img-git-skills](https://user-images.githubusercontent.com/4484038/138339726-13709d1b-63f4-4431-9080-0286f5ef5c2d.png)
 
 
-⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize ⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html ⚡Php  ⚡Mysql  ⚡SEO  ⚡Git
+<p align='center'>⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize ⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html ⚡Php  ⚡Mysql  ⚡SEO  ⚡Git</p>
 
 
 ![img-git-languages](https://user-images.githubusercontent.com/4484038/138339517-30bc681f-9ef7-4419-80c6-442a60cf9e7d.png)
