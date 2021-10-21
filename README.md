@@ -1,24 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-Im Veronica, full stack developer, allways learnign something new. 
+Im Veronica, full stack developer, I love the IT world and Im allways learnign something new. 
 
-# Skills at the moment:
+### Skills at the moment:
 
-⚡Javascript
-⚡NodeJs
-⚡Express
-⚡Sequelize
-⚡React
-⚡Redux
-⚡Postgres
-⚡CSS
-⚡Html
-⚡Php
-⚡Mysql
-⚡SEO
-⚡Git
+⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize
 
-# Contact:
+⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html
+
+⚡Php  ⚡Mysql  ⚡SEO  ⚡Git
+
+
+### Contact:
 
 ✨ email: verita022@gmail.com
 
