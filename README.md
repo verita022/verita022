@@ -6,7 +6,7 @@
 
 
 <p align='center'>I'm a full stack developer, I love the IT world and Im allways learnign something new.
-I consider myself a very proactive person, extremely curious, which end up being something very useful for me as a developer. I adapt very easily to any work enviroment, I function very well in group as well as alone.  </p>
+I consider myself a very proactive person, extremely curious, which end up being something very useful for me as a developer. I adapt very easily to any work enviroment, and I function very well in group as well as alone.  </p>
 
 
 ![img-git-skills](https://user-images.githubusercontent.com/4484038/138339726-13709d1b-63f4-4431-9080-0286f5ef5c2d.png)
