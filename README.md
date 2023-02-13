@@ -12,7 +12,7 @@ I consider myself a very proactive person, extremely curious, which end up being
 ![img-git-skills](https://user-images.githubusercontent.com/4484038/138339726-13709d1b-63f4-4431-9080-0286f5ef5c2d.png)
 
 
-<p align='center'>⚡Javascript ⚡NodeJs  ⚡Express  ⚡Sequelize ⚡React ⚡Redux  ⚡Postgres ⚡CSS  ⚡Html ⚡Php  ⚡Mysql  ⚡SEO  ⚡Git</p>
+<p align='center'>⚡Javascript ⚡NodeJs ⚡React ⚡Redux ⚡GraphQL ⚡TypeScript ⚡Prisma ⚡Express ⚡Sequelize ⚡Postgres ⚡CSS  ⚡Html ⚡Php  ⚡Mysql ⚡SQL ⚡SEO  ⚡Git</p>
 
 
 ![img-git-languages](https://user-images.githubusercontent.com/4484038/138339517-30bc681f-9ef7-4419-80c6-442a60cf9e7d.png)
